@@ -41,7 +41,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "BlobSource",
+						"referenceName": "BlobSource01",
 						"type": "DatasetReference"
 					}
 				],
